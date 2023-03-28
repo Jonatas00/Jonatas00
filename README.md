@@ -5,9 +5,7 @@ My name is Jonatas Rodrigues
 I'm 20 years old
 
 
-#### SocialMedias
 - LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
-
 - Instagram: https://www.instagram.com/jonatasrodrigues00/
 
 ### I'm Studying
