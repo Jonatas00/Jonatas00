@@ -9,7 +9,8 @@ I'm 20 years old
 
 #### LANGUAGES
 
-[![Python]([https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 #### I'M INTERESTED 
 
