@@ -8,6 +8,8 @@ I'm 20 years old
 - LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
 - Instagram: https://www.instagram.com/jonatasrodrigues00/
 
+-
+
 ### I'm Studying
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
