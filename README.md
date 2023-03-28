@@ -6,9 +6,9 @@ I'm 20 years old
 
 
 #### SocialMedias
--LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
+- LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
 
--Instagram: https://www.instagram.com/jonatasrodrigues00/
+- Instagram: https://www.instagram.com/jonatasrodrigues00/
 
 ### I'm Studying
 
