@@ -23,5 +23,3 @@ I'm 20 years old
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-
-![github-user-contribution](https://user-images.githubusercontent.com/85264333/228279684-8f044740-21a9-44e4-ac00-c75e3728b382.svg)
