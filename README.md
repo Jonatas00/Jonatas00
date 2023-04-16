@@ -9,12 +9,15 @@ I'm 20 years old
 - LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
 - Instagram: https://www.instagram.com/jonatasrodrigues00/
 
+### Technologies & Tools
+
+[![Technologies](https://skills.thijs.gg/icons?i=vscode,git)](https://skills.thijs.gg)
 
 ### I'm Studying
           
-[![](https://skills.thijs.gg/icons?i=py,lua,html,css,js)](https://skills.thijs.gg)
+[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)](https://skills.thijs.gg)
 
-#### I'M INTERESTED 
+### I'M INTERESTED 
 
 [![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,sql)](https://skills.thijs.gg)
 
