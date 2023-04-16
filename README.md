@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
+   
 ## Introdution 👋
 
 My name is Jonatas Rodrigues
@@ -11,8 +11,8 @@ I'm 20 years old
 
 
 ### I'm Studying
-
-![Python]<i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 #### I'M INTERESTED 
 
