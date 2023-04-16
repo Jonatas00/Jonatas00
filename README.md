@@ -11,7 +11,7 @@ I'm 20 years old
 
 ### I'm Studying
 
-![Python]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+![Python]<i class="devicon-python-plain"></i>
 
 #### I'M INTERESTED 
 
