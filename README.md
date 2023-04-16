@@ -16,9 +16,7 @@ I'm 20 years old
 
 #### I'M INTERESTED 
 
-[![Interested](https://skills.thijs.gg/icons?i=django,nodejs)](https://skills.thijs.gg)
-
-[![Interested](https://skills.thijs.gg/icons?i=vue,angular,react,sql)](https://skills.thijs.gg)
+[![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,sql)](https://skills.thijs.gg)
 
 <div>
 <a href="https://github.com/Jonatas00">
