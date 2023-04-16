@@ -16,11 +16,7 @@ I'm 20 years old
 
 #### I'M INTERESTED 
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
--
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+[![Interested](https://skills.thijs.gg/icons?i=django,node,vue,angular,react,sql)](https://skills.thijs.gg)
 
 <div>
 <a href="https://github.com/Jonatas00">
