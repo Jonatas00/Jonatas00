@@ -11,8 +11,8 @@ I'm 20 years old
 
 
 ### I'm Studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
+[![Python](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
 
 #### I'M INTERESTED 
 
