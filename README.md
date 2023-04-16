@@ -12,7 +12,7 @@ I'm 20 years old
 
 ### I'm Studying
           
-[![Python](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
+[![Studying](https://skills.thijs.gg/icons?i=python,lua,js)](https://skills.thijs.gg)
 
 #### I'M INTERESTED 
 
