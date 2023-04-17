@@ -6,20 +6,20 @@ My name is Jonatas Rodrigues
 I'm 20 years old
 
 
-[![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://skills.thijs.gg)
+[![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
 - Instagram: https://www.instagram.com/jonatasrodrigues00/
 
 ### Tools
 
-[![Technologies](https://skills.thijs.gg/icons?i=vscode,git)]()
+[![Technologies](https://skills.thijs.gg/icons?i=vscode,git)](https://github.com/Jonatas00)
 
 ### I'm Studying
           
-[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)]()
+[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)](https://github.com/Jonatas00)
 
 ### I'm Interested
 
-[![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,ts)]()
+[![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,ts)](https://github.com/Jonatas00)
 
 <div>
 <a href="https://github.com/Jonatas00">
