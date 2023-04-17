@@ -11,15 +11,15 @@ I'm 20 years old
 
 ### Tools
 
-[![Technologies](https://skills.thijs.gg/icons?i=vscode,git)]
+[![Technologies](https://skills.thijs.gg/icons?i=vscode,git)]()
 
 ### I'm Studying
           
-[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)]
+[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)]()
 
 ### I'm Interested
 
-[![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,ts)]
+[![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,angular,react,ts)]()
 
 <div>
 <a href="https://github.com/Jonatas00">
