@@ -7,7 +7,7 @@ I'm 20 years old
 
 
 [![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
-[![Instagram](https://skills.thijs.gg/icons?i=linkedin)](https://www.instagram.com/jonatasrodrigues00/)
+[![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/jonatasrodrigues00/)
 
 ### Tools
 
