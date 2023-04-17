@@ -9,7 +9,7 @@ I'm 20 years old
 - LinkedIn: https://www.linkedin.com/in/jonatasrodriguesdamasceno
 - Instagram: https://www.instagram.com/jonatasrodrigues00/
 
-### Technologies & Tools
+### Tools
 
 [![Technologies](https://skills.thijs.gg/icons?i=vscode,git)](https://skills.thijs.gg)
 
