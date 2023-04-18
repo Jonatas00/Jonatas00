@@ -5,10 +5,9 @@ My name is Jonatas Rodrigues
 
 I'm 20 years old
 
-#### Contacts
+#### Contact
 
 [![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
-[![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/jonatasrodrigues00/)
 
 ### Tools
 
