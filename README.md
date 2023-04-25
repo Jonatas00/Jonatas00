@@ -9,7 +9,7 @@ I'm 20 years old
 
 [![Linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
 
-### Tools
+### Skills
 
 [![Technologies](https://skills.thijs.gg/icons?i=vscode,git)](https://github.com/Jonatas00)
 
