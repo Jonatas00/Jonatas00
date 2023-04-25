@@ -27,10 +27,10 @@ I'm 20 years old
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="readme-status-lgxl-k52pznnxk-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true"
+  srcset="readme-status-psuqrt790-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="readme-status-psuqrt790-jonatas00.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 ![Snake animation](https://github.com/Jonatas00/Jonatas00/blob/output/github-contribution-grid-snake.svg)
