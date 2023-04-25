@@ -27,7 +27,7 @@ I'm 20 years old
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Jonatas00&show_icons=true"
+  srcset="readme-status-lgxl-k52pznnxk-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
