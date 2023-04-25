@@ -21,6 +21,11 @@ I'm 20 years old
 
 [![Interested](https://skills.thijs.gg/icons?i=django,nodejs,vue,react,ts)](https://github.com/Jonatas00)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ![Snake animation](https://github.com/Jonatas00/Jonatas00/blob/output/github-contribution-grid-snake.svg)
