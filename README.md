@@ -23,6 +23,6 @@ I'm 20 years old
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas00&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatas00&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://readme-status-4dev-31eq01ih4-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true&theme=nord)
 
 ![Snake animation](https://github.com/Jonatas00/Jonatas00/blob/output/github-contribution-grid-snake.svg)
