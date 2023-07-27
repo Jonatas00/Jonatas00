@@ -20,14 +20,4 @@ I'm 20 years old
 
 ![Anurag's GitHub stats](https://readme-status-4dev-31eq01ih4-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true&theme=nord)
 ![Top Langs](https://readme-status-4dev-31eq01ih4-jonatas00.vercel.app/api/top-langs/?username=Jonatas00&layout=compact&theme=nord)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
