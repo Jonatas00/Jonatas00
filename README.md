@@ -11,11 +11,11 @@ I'm 20 years old
 
 ### I'm Studying
           
-[![Studying](https://skills.thijs.gg/icons?i=py,lua,html,css,js)](https://github.com/Jonatas00)
+[![Studying](https://skills.thijs.gg/icons?i=py,vue,nodejs,js,html,css)](https://github.com/Jonatas00)
 
 ### I'm Interested
 
-[![Interested](https://skills.thijs.gg/icons?i=nodejs,vue,react,ts)](https://github.com/Jonatas00)
+[![Interested](https://skills.thijs.gg/icons?i=lua,vue,react,ts)](https://github.com/Jonatas00)
 
 
 ![Anurag's GitHub stats](https://readme-status-4dev-31eq01ih4-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true&theme=nord)
