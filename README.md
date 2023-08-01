@@ -11,7 +11,7 @@ I'm 20 years old
 
 ### I'm Studying
           
-[![Studying](https://skills.thijs.gg/icons?i=py,vue,nodejs,js,html,css)](https://github.com/Jonatas00)
+[![Studying](https://skills.thijs.gg/icons?i=vue,nodejs,js,html,css,py)](https://github.com/Jonatas00)
 
 ### I'm Interested
 
