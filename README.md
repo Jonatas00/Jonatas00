@@ -15,7 +15,7 @@ I'm 20 years old
 
 ### I'm Interested
 
-[![Interested](https://skills.thijs.gg/icons?i=ts,react,lua)](https://github.com/Jonatas00)
+[![Interested](https://skills.thijs.gg/icons?i=ts,ruby,lua)](https://github.com/Jonatas00)
 
 
 ![Anurag's GitHub stats](https://readme-status-4dev-31eq01ih4-jonatas00.vercel.app/api?username=Jonatas00&show_icons=true&theme=nord)
