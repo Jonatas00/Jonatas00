@@ -5,10 +5,6 @@ My name is Jonatas Rodrigues
 
 I'm 20 years old
 
-### Skills
-
-[![Technologies](https://skills.thijs.gg/icons?i=vscode,git,imsomnia)](https://github.com/Jonatas00)
-
 #### I'm Interested
 
           
