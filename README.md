@@ -5,7 +5,7 @@
   - My name is Jonatas Rodrigues
   - I'm 21 years old
 
-![https://www.linkedin.com/in/jonatasrodriguesdamasceno](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
 
 ## Main stack
 
