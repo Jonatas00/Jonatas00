@@ -1,9 +1,32 @@
-   
-## Introdution 👋
+# Welcome to me repository
 
-My name is Jonatas Rodrigues
+## My personal infos
 
-I'm 21 years old
+  - My name is Jonatas Rodrigues
+  - I'm 21 years old
 
+![https://www.linkedin.com/in/jonatasrodriguesdamasceno/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+## Main stack
 
+### Languages
+
+![My Skills](https://skillicons.dev/icons?i=go,js,py)
+
+### Frameworks
+
+![Frameworks](https://skillicons.dev/icons?i=vue,)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,postman,docker)
+
+### OS
+
+![OS](https://skillicons.dev/icons?i=windows,linux)
+
+![stats](https://github-readme-status00.vercel.app/api/top-langs/?username=jonatas00&theme=holi)
