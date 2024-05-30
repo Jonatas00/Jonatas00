@@ -1,11 +1,14 @@
 # Welcome to me repository
 
-## My personal infos
-
-  - My name is Jonatas Rodrigues
-  - I'm 21 years old
-
-  - I am currently looking for an internship.
+```json
+{
+  "personal_infos": {
+    "name": "Jonatas Rodrigues",
+    "age" : 21,
+    "job" : "Currently looking for an internship"
+  }
+}
+```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
 
