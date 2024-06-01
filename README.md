@@ -33,5 +33,3 @@
 ### OS
 
 ![OS](https://skillicons.dev/icons?i=windows,linux)
-
-![stats](https://github-readme-status00.vercel.app/api/top-langs/?username=jonatas00&theme=holi)
