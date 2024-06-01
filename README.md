@@ -16,7 +16,7 @@
 
 ### Languages
 
-![My Skills](https://skillicons.dev/icons?i=go,js,py)
+![My Skills](https://skillicons.dev/icons?i=go,java,js,py)
 
 ### Frameworks
 
