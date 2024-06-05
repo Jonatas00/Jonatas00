@@ -12,9 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasrodriguesdamasceno/)
 
-## I'm currently learning
-
-| **#**   | **Technologies**                                                                                       |
+| **#**   |        **Technologies**                                                                                      |
 |----------------|-------------------------------------------------------------------------------------------------------|
 | **Languages**  | ![My Skills](https://skillicons.dev/icons?i=go,java,js,py)                                            |
 | **Frameworks** | ![Frameworks](https://skillicons.dev/icons?i=vue)                                                     |
