@@ -5,7 +5,7 @@
   "personal_infos": {
     "name": "Jonatas Rodrigues",
     "age" : 21,
-    "job" : "Currently looking for an internship"
+    "job" : "Internship"
   }
 }
 ```
