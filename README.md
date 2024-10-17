@@ -1,18 +1,18 @@
-# Welcome to me repository
+# Welcome to my repository
 
 ```json
 {
   "personal_infos": {
     "name": "Jonatas Rodrigues",
-    "about": "",
-    "": "",
+    "age": 21,
+    "city": "São Paulo"
   }
 }
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasrodrigues-tech/)
 
-### I'm currently learning:
+### I'm currently exploring and enhancing my skills in the following technologies:
 
 | **#**   |        **Technologies**                                                                                      |
 |----------------|-------------------------------------------------------------------------------------------------------|
