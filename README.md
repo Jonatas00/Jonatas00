@@ -16,7 +16,7 @@
 
 | **#**   |        **Technologies**                                                                                      |
 |----------------|-------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![My Skills](https://skillicons.dev/icons?i=go,java,js)                                            |
+| **Languages**  | ![My Skills](https://skillicons.dev/icons?i=java,go,js)                                            |
 | **Database**   | ![Database](https://skillicons.dev/icons?i=mysql,postgres)                                            |
 | **Tools**      | ![Tools](https://skillicons.dev/icons?i=vscode,postman,docker)                                        |
 | **OS**         | ![OS](https://skillicons.dev/icons?i=windows,linux)
