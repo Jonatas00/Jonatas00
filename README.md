@@ -12,7 +12,6 @@ dev.code();
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-c9c9c9?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/jonatasrodrigues-tech/)
-[![Github](https://img.shields.io/badge/GITHUB-c9c9c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonatas00)
 
 <img src="https://komarev.com/ghpvc/?username=Jonatas00" alt="Jonatas00" />
 
