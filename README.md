@@ -12,7 +12,7 @@ dev.code();
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-c9c9c9?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/jonatasrodrigues-tech/)
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-c9c9c9?style=for-the-badge&logoColor=white)](https://jonatas00.github.io/portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-c9c9c9?style=for-the-badge)](https://jonatas00.github.io/portfolio/)
 
 <img src="https://komarev.com/ghpvc/?username=Jonatas00" alt="Jonatas00" />
 
