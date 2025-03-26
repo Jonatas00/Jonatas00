@@ -16,7 +16,7 @@ dev.code();
 
 <img src="https://komarev.com/ghpvc/?username=Jonatas00" alt="Jonatas00" />
 
-## I'm currently exploring and enhancing my skills in the following technologies
+## My stack
 
 | **#**          | **Technologies**                                               |
 | -------------- | -------------------------------------------------------------- |
