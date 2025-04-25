@@ -26,4 +26,4 @@ dev.code();
 | **Tools**      | ![Tools](https://skillicons.dev/icons?i=vscode,postman,docker) |
 | **OS**         | ![OS](https://skillicons.dev/icons?i=windows,linux)            |
 
-![stats](https://github-readme-status00.vercel.app/api/top-langs/?username=jonatas00&theme=dark&layout=compact)
+![stats](https://github-readme-status00.vercel.app/api/top-langs/?username=jonatas00&theme=dark&layout=compact&hide=html)
