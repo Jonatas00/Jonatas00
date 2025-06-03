@@ -18,7 +18,7 @@ dev.code();
 
 | **#**          | **Technologies**                                               |
 | -------------- | -------------------------------------------------------------- |
-| **Languages**  | ![My Skills](https://skillicons.dev/icons?i=java,go,js)        |
+| **Languages**  | ![My Skills](https://skillicons.dev/icons?i=java,ts,js,go)     |
 | **Frameworks** | ![My Skills](https://skillicons.dev/icons?i=spring,vue)        |
 | **Database**   | ![Database](https://skillicons.dev/icons?i=mysql,postgres)     |
 | **Tools**      | ![Tools](https://skillicons.dev/icons?i=vscode,postman,docker) |
